@@ -25,3 +25,6 @@ multcusordict["4"] = "bugs"
 print(multcusordict)
 
 print("now checking for proper file modification tracking...")
+
+def elmo_func():
+    pass
